@@ -6,7 +6,7 @@ padding:0px;
 body{
 	background-image:url("../images/homeback1.jpg");
 	
-	-webkit-box-pack:center;
+	
 }
 #home{
 -webkit-box-orient: vertical;
@@ -125,6 +125,8 @@ text-align:center;
  }
  #collection_main_inner{
 	display:-webkit-box;
+	width:1000px;
+	height:400px;
 	margin:0 auto;
  }
  
